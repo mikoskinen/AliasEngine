@@ -1,6 +1,6 @@
 # Alias Engine
 
-Alias Engine is a C# and .NET Standard based engine, which allows you to create aliases for your commands. It's inspired by the alias support offered by mIrc: https://www.mirc.com/help/html/index.html?aliases.html.
+Alias Engine is a C# and .NET Standard based engine, which allows you to create aliases for your commands. It's inspired by the alias support offered by mIRC: https://www.mirc.com/help/html/index.html?aliases.html.
 
 [![NuGet](https://img.shields.io/nuget/v/AliasEngine.svg)](https://www.nuget.org/packages/AliasEngine/)
 
