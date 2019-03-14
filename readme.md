@@ -2,6 +2,8 @@
 
 Alias Engine is a C# and .NET Standard based engine, which allows you to create aliases for your commands.
 
+[![NuGet](https://img.shields.io/nuget/v/AliasEngine.svg)](https://www.nuget.org/packages/AliasEngine/)
+
 ## Example:
 
 Full command: /join
